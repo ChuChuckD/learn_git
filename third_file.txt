@@ -1,0 +1,1 @@
+Attempts at adding more than a file at a time to the staging area
