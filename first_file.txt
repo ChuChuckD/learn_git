@@ -1,1 +1,7 @@
 Trying out instructions
+The .git file is commonly a hidden file. To display and remove the .git folder
+we follow these commands
+Under File click on Preferences and select Settings
+In the terminal area scroll down till you get to the "Exclude"section 
+close the section displaying "**/.git" to show the .git and add to command to make
+it hidden again.
